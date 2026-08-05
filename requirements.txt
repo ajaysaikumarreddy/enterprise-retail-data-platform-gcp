@@ -1,0 +1,39 @@
+# =====================================================
+# Enterprise Retail Data Platform on Google Cloud
+# Python Dependencies
+# =====================================================
+
+# Data Processing
+pandas
+numpy
+
+# Database Connectivity
+sqlalchemy
+pymysql
+psycopg2-binary
+
+# API Integration
+requests
+
+# Google Cloud
+google-cloud-storage
+google-cloud-bigquery
+google-cloud-secret-manager
+
+# PySpark
+pyspark
+
+# Airflow
+apache-airflow
+
+# Environment Variables
+python-dotenv
+
+# Logging
+loguru
+
+# Configuration Files
+PyYAML
+
+# Date Handling
+python-dateutil
